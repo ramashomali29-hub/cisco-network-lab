@@ -53,7 +53,9 @@ To recover the port after removing the unauthorized device:
 interface [interface]
  shutdown
  no shutdown
-```<img width="1532" height="592" alt="topology" src="https://github.com/user-attachments/assets/cf31b133-7ec6-4807-a5a7-d435dad1f4e1" />
+```
+
+<img width="1532" height="592" alt="topology" src="https://github.com/user-attachments/assets/cf31b133-7ec6-4807-a5a7-d435dad1f4e1" />
 
 
 ## How to Open
